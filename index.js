@@ -6,6 +6,14 @@ function destructivelyAppendKitten(name) {
   
 }
 
-function destructivelyPrependKitten(name) {
+function destructivelyPrependKitten() {
+  
+}
+
+function destructivelyRemoveFirstKitten() {
+  
+}
+
+function appendKitten(name) {
   
 }
